@@ -57,11 +57,13 @@ body {
 }
 
 footer {
-    background-color:#0d3b24;
+    background-color: transparent;
     color: #FFF;
     height: 120px;
-    
-    
+}
+
+footer .logos p{
+    padding: 10px;
 }
 
 footer i {
